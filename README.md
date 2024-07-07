@@ -7,7 +7,8 @@ Welcome to the **Portal Pattern** repository! This collection showcases a variet
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,html,css" /><br>
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind"/><br>
+<img src="https://skillicons.dev/icons?i=react"/>
 </a>
 
 </div>
