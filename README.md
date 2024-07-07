@@ -4,7 +4,13 @@ Welcome to the **Portal Pattern** repository! This collection showcases a variet
 
 ## Technologies Used
 
-https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,html,css" /><br>
+<img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git"/>
+</a>
+
+</div>
 
 
 ## Getting Started
