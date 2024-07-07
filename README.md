@@ -6,7 +6,7 @@ Welcome to the **Portal Pattern** repository! This collection showcases a variet
 
 <p align="center">
   <!-- First row: HTML, CSS, JavaScript -->
-  <img src="https://c0.klipartz.com/pngpicture/753/701/gratis-png-rojo-y-blanco-5-marca-de-texto-de-area-de-angulo-otro-html-5.png" alt="HTML">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- spaces between HTML and CSS -->
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- spaces between CSS and JavaScript -->
