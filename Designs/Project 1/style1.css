@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+}
+
+.login-form {
+    width: 300px;
+    margin: 50px auto;
+    border: 1px solid #ccc;
+    padding: 16px;
+    text-align: center;
+}
+
+.login-form h1 {
+    margin-bottom: 20px;
+}
+
+.login-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.login-form button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 8px 20px; /* Adjust padding to control button size */
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    /* Added properties for button length control */
+    display: inline-block; /* Ensures content doesn't wrap to new line */
+    width: fit-content; /* Button shrinks to fit content */
+}
+
+
+.login-form button:hover {
+    opacity: 0.8;
+}
+
+.forgot-psw,
+.signup-psw {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #04AA6D;
+}
